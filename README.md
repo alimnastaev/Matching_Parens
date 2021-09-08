@@ -11,3 +11,5 @@ Some expressions as examples:
 ```
 
 To run tests from command line: `elixir matching_parens.exs --test`
+
+**BTW, the goal here is to avoid any Elixir's built-in functions!**
